@@ -1376,31 +1376,31 @@
     "@angular-devkit/schematics" "13.2.4"
     jsonc-parser "3.0.0"
 
-"@snowplow/browser-tracker-core@3.3.1":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@snowplow/browser-tracker-core/-/browser-tracker-core-3.3.1.tgz#2f3db390dddf9db6b903e40ebdfc2e7f37eeacd6"
-  integrity sha512-xrfkyoA91pZrc8wXKnIvTcmGWsfZtWorDaaPEXenjsBhGNTSzbYZ2qSHg0khY1LtWG7t1sVHALy8qo1SHd7iAA==
+"@snowplow/browser-tracker-core@3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@snowplow/browser-tracker-core/-/browser-tracker-core-3.4.0.tgz#ff037367325445cb0f5373fdefd6dabc7434192c"
+  integrity sha512-Eav/+UnfnytnuGVJRh8wjIdAN2Qx/IZxAtDtNj0cu+WQactAnSJBeUuaWOrcasXbvrMchlF+GyvA/PiOXLeDTQ==
   dependencies:
-    "@snowplow/tracker-core" "3.3.1"
+    "@snowplow/tracker-core" "3.4.0"
     sha1 "^1.1.1"
-    tslib "^2.3.0"
+    tslib "^2.3.1"
     uuid "^3.4.0"
 
-"@snowplow/browser-tracker@^3.3.0":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@snowplow/browser-tracker/-/browser-tracker-3.3.1.tgz#d57d17c853a9c582aebd0ec25601423399636960"
-  integrity sha512-WPc7EdI2AZboppXaACbvCtBcGQnqw7qL5Dr/gCme6wnblxJX0xvcfI+S2G52fCkgUHoyksKjWSR72o3tWplDSw==
+"@snowplow/browser-tracker@^3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@snowplow/browser-tracker/-/browser-tracker-3.4.0.tgz#8d1b5df945d0d8872b97c470b00baa0aae0a6e7d"
+  integrity sha512-kOzTFAc4cwr/CJLA+lpwR0eDc0vmcIIjlX6veoRXiELb7tR1JFdCjaQirSmQ1mLjjxTjqrkBPb+2TNhxtCzw0g==
   dependencies:
-    "@snowplow/browser-tracker-core" "3.3.1"
-    "@snowplow/tracker-core" "3.3.1"
-    tslib "^2.3.0"
+    "@snowplow/browser-tracker-core" "3.4.0"
+    "@snowplow/tracker-core" "3.4.0"
+    tslib "^2.3.1"
 
-"@snowplow/tracker-core@3.3.1":
-  version "3.3.1"
-  resolved "https://registry.yarnpkg.com/@snowplow/tracker-core/-/tracker-core-3.3.1.tgz#b86f0c3e670747aaad38d081809c262e42dec221"
-  integrity sha512-q2NYysdrH4Y1eQR62jt1Q+ZnEXB5Pv+xcU1lKZxGA7LUIjhu1QE43hrd1oAskP0/543cS10REy+D33t0cGOKDg==
+"@snowplow/tracker-core@3.4.0":
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/@snowplow/tracker-core/-/tracker-core-3.4.0.tgz#688ddcbf7ebe894112d337532ee1473c703eb920"
+  integrity sha512-HINAMZdvcQwIOZVVM8UtNZB2X33m7+gAIzDj3YQxvzphDUo7+GPCmmoVZmP9C2m6HovtBbKDX7slruvWFh+kcw==
   dependencies:
-    tslib "^2.3.0"
+    tslib "^2.3.1"
     uuid "^3.4.0"
 
 "@tootallnate/once@1":
